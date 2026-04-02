@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "Afterlife"
-  text: "Guides on Privacy, OSINT, OPSEC, FOSS and Piracy"
-  tagline: My great project tagline
+  text: "Privacy never dies"
+  tagline: Guides on Privacy, OSINT, OPSEC, FOSS and Piracy
   actions:
     - theme: brand
       text: Markdown Examples
