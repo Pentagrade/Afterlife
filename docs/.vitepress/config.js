@@ -1,4 +1,6 @@
-export default {
+import { defineConfig } from 'vitepress'
+
+export default defineConfig({
   // site-level options
   title: 'Afterlife',
   description: 'Guides on Privacy, OSINT, OPSEC, FOSS and Piracy',
@@ -7,4 +9,4 @@ export default {
   themeConfig: {
     // theme-level options
   }
-}
+})
