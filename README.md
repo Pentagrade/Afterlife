@@ -22,9 +22,9 @@ Come chat with us on [Fluxer](https://fluxer.gg/afterlife)
 
 ### Steps
 
-1. Clone the repo
-2. Install the dependencies with `bun install`
-3. Run the Dev Server with `bun run docs:dev`
+1. Clone the repo with `git clone https://github.com/Afterlife-Fluxer/Afterlife.git && cd Afterlife`
+3. Install the dependencies with `bun install`
+4. Run the Dev Server with `bun run docs:dev`
 
 ## Deployment
 
